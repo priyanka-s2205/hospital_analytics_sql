@@ -34,5 +34,14 @@ Hospital data is often scattered across multiple tables, making it difficult to 
 - Certain cities generated consistently higher hospital revenue
 - Doctor performance varied significantly across departments
 
+## KPIs Tracked
+- Total hospital revenue
+- Revenue by city and department
+- Average treatment cost
+- High-cost disease contribution to revenue
+- Doctor-wise patient count
+- Department-wise utilization trends
+
+
 ## Disclaimer
 This project is created for educational and portfolio purposes only. The dataset used is sample data and does not contain real patient or hospital information.
